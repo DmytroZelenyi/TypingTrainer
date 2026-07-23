@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/DmytroZelenyi/TypingTrainer/blob/main/public/image.png?raw=true" alt="Обкладинка проєкту" width="600">
+  <img src="https://github.com/DmytroZelenyi/TypingTrainer/blob/main/public/image.png?raw=true" alt="Project preview" width="600">
 </p>
 
 
